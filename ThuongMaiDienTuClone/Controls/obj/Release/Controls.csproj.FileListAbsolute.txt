@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\Controls.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\Controls.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\DAL.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\DTO.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\DAL.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Release\DTO.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Release\Controls.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Release\Controls.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Release\Controls.csproj.CopyComplete
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Release\Controls.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Release\Controls.pdb

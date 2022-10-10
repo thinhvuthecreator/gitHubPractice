@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\Controls.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\Controls.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\DAL.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\DTO.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\DAL.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\bin\Debug\DTO.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Debug\Controls.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Debug\Controls.csproj.CopyComplete
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Debug\Controls.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\Controls\obj\Debug\Controls.pdb

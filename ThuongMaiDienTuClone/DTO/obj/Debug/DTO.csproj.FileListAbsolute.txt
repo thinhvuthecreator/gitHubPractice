@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\bin\Debug\DTO.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\obj\Debug\DTO.dll
+C:\Users\admin\source\repos\ThuongMaiDienTuClone\DTO\obj\Debug\DTO.pdb
