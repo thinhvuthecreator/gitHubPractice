@@ -269,6 +269,7 @@ namespace shoppingGUI.HOADON
            
         #endregion
             
+        //*********************************
 
         #region Events
         private void btnAddHD_Click(object sender, EventArgs e)

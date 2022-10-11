@@ -107,6 +107,8 @@ namespace shoppingGUI.KHACHHANG
 
         /***********************************************************************/
         //changes
+        // them comments
+        //greghrehtrhtr
         #region events
         private void fKHACHHANG_Load(object sender, EventArgs e)
         {
